@@ -25,8 +25,12 @@ namespace ASPNET_MVC.Controllers
 
         public IActionResult Privacy()
         {
+            ViewData["Message"] = "Salles Web MVC APP from C# Course";
+            ViewData["email"] = "augusto.kraszczuk@gmail.com";
+
             return View();
         }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
