@@ -5,7 +5,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using ASPNET_MVC.Models;
+using ASPNET_MVC.Models.ViewModels;
+
 
 namespace ASPNET_MVC.Controllers
 {
@@ -23,7 +24,7 @@ namespace ASPNET_MVC.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult About()
         {
             ViewData["Message"] = "Salles Web MVC APP from C# Course";
             ViewData["email"] = "augusto.kraszczuk@gmail.com";

@@ -92,3 +92,4 @@ C:\Users\Augusto Kraszczuk\Desktop\ASPNET MVC\bin\Debug\netcoreapp3.1\MySqlConne
 C:\Users\Augusto Kraszczuk\Desktop\ASPNET MVC\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\Augusto Kraszczuk\Desktop\ASPNET MVC\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
 C:\Users\Augusto Kraszczuk\Desktop\ASPNET MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Augusto Kraszczuk\Desktop\ASPNET MVC\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Index.cshtml.g.cs
